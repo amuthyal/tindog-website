@@ -12,15 +12,15 @@ you can view this website at https://amuthyal.github.io/tindog-website/index.htm
 
 <p> The Buttons in the title section are styled using CSS Bootstrap 4 </p>
 
-<p> I added Bootstrap CDN instead of dowloading the source files and calling them. </p>
+<p> Added Bootstrap CDN instead of dowloading the source files and calling them. </p>
 
-<p> I used z-index property to place the bottom half of the mobile picture underneath the next section </p>
+<p>  Used z-index property to place the bottom half of the mobile picture underneath the next section </p>
 
-<p> I used https://fontawesome.com/ for the icons in the features section </p>
+<p> Used https://fontawesome.com/ for the icons in the features section </p>
 
-<p> I added Caraousel to the testimonial Section </p>
+<p> Added Caraousel to the testimonial Section </p>
 
-<p> I used card class for the pricing section </p>
+<p> Used card class for the pricing section </p>
 
 
 
