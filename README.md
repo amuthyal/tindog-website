@@ -10,6 +10,8 @@ you can view this website at https://amuthyal.github.io/tindog-website/index.htm
 
 <p> I used  CSS Bootstrap 4 to build the nav-bar and to make it more responsive. </p>
 
+<img src="laptop-size" alt="laptop-screen">
+
 <p> The Buttons in the title section are styled using CSS Bootstrap 4 </p>
 
 <p> Added Bootstrap CDN instead of dowloading the source files and calling them. </p>
